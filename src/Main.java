@@ -3,7 +3,7 @@ public class Main {
 
         BonusMilesService service = new BonusMilesService();
 
-        int price = 45;
+        int price = 10 000;
 
         int miles = service.calculate(price);
 
